@@ -5,3 +5,5 @@ Git tarcks changes
 create a new branch is quick
 create a new branch is queick and simplie
 add merge
+
+/usr/bin/env
