@@ -3,4 +3,5 @@ git is a free distributed under the GPL
 Git has a mutable index called stage
 Git tarcks changes
 create a new branch is quick
-create a new branch is queick and simple
+create a new branch is queick and simplie
+add merge
